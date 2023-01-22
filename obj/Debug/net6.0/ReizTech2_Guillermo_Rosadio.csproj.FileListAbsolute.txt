@@ -1,0 +1,14 @@
+D:\GuilleVGTU\3rd year\programacion memo\ReizTech2_Guillermo_Rosadio\bin\Debug\net6.0\ReizTech2_Guillermo_Rosadio.exe
+D:\GuilleVGTU\3rd year\programacion memo\ReizTech2_Guillermo_Rosadio\bin\Debug\net6.0\ReizTech2_Guillermo_Rosadio.deps.json
+D:\GuilleVGTU\3rd year\programacion memo\ReizTech2_Guillermo_Rosadio\bin\Debug\net6.0\ReizTech2_Guillermo_Rosadio.runtimeconfig.json
+D:\GuilleVGTU\3rd year\programacion memo\ReizTech2_Guillermo_Rosadio\bin\Debug\net6.0\ReizTech2_Guillermo_Rosadio.dll
+D:\GuilleVGTU\3rd year\programacion memo\ReizTech2_Guillermo_Rosadio\bin\Debug\net6.0\ref\ReizTech2_Guillermo_Rosadio.dll
+D:\GuilleVGTU\3rd year\programacion memo\ReizTech2_Guillermo_Rosadio\bin\Debug\net6.0\ReizTech2_Guillermo_Rosadio.pdb
+D:\GuilleVGTU\3rd year\programacion memo\ReizTech2_Guillermo_Rosadio\obj\Debug\net6.0\ReizTech2_Guillermo_Rosadio.GeneratedMSBuildEditorConfig.editorconfig
+D:\GuilleVGTU\3rd year\programacion memo\ReizTech2_Guillermo_Rosadio\obj\Debug\net6.0\ReizTech2_Guillermo_Rosadio.AssemblyInfoInputs.cache
+D:\GuilleVGTU\3rd year\programacion memo\ReizTech2_Guillermo_Rosadio\obj\Debug\net6.0\ReizTech2_Guillermo_Rosadio.AssemblyInfo.cs
+D:\GuilleVGTU\3rd year\programacion memo\ReizTech2_Guillermo_Rosadio\obj\Debug\net6.0\ReizTech2_Guillermo_Rosadio.csproj.CoreCompileInputs.cache
+D:\GuilleVGTU\3rd year\programacion memo\ReizTech2_Guillermo_Rosadio\obj\Debug\net6.0\ReizTech2_Guillermo_Rosadio.dll
+D:\GuilleVGTU\3rd year\programacion memo\ReizTech2_Guillermo_Rosadio\obj\Debug\net6.0\ref\ReizTech2_Guillermo_Rosadio.dll
+D:\GuilleVGTU\3rd year\programacion memo\ReizTech2_Guillermo_Rosadio\obj\Debug\net6.0\ReizTech2_Guillermo_Rosadio.pdb
+D:\GuilleVGTU\3rd year\programacion memo\ReizTech2_Guillermo_Rosadio\obj\Debug\net6.0\ReizTech2_Guillermo_Rosadio.genruntimeconfig.cache
